@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     
-    <h1>apprwite nigaagagaga</h1>
+    <h1>apprwite </h1>
     </>
   )
 }
